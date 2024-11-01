@@ -20,7 +20,6 @@
 <h2>Encuéntrame en:</h2>
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px; margin-top: 10px;">
-    <a href="https://mouredev.com/discord" target="_blank"><img src="https://img.shields.io/badge/Discord-mouredev-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=101010" alt="Discord"></a>
     <a href="https://instagram.com/10scar23" target="_blank"><img src="https://img.shields.io/badge/Instagram-@10scar23-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010" alt="Instagram"></a>
     <a href="https://www.facebook.com/oscar.lara.33865854/?locale=es_LA" target="_blank"><img src="https://img.shields.io/badge/Facebook-@Oscar_Lara-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=101010" alt="Facebook"></a>
     <a href="https://www.linkedin.com/in/oscar-enríquez-lara-69706426a/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Oscar_Lara-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010" alt="LinkedIn"></a>
