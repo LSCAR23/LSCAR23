@@ -1,28 +1,48 @@
-<div style="display: flex; align-items: center; margin-bottom: 20px;">
-    <img src="./10scar.png" alt="Oscar Lara" style="width:56px; height:56px; border-radius:50%; margin-right:10px">
-    <strong style="font-size: 36px;">Hola, mi nombre es Oscar Lara</strong> 
-</div>
+## Hey 👋, I'm Oscar Lara!  
 
-<img src="./Oscar.png" alt="Oscar Lara GitHub" style="border-radius: 10px; margin-bottom: 20px;">
+## About Me:
 
-<p style="font-size: 18px;">
-    Soy ingeniero de software.
-</p>
+🚀 I'm a passionate **Web Developer** with experience in building high-quality web applications and scalable solutions.  
+💡 I love working with modern technologies and creating innovative projects that make an impact.  
 
-<p style="font-size: 16px; line-height: 1.6;">
-    Mi experiencia profesional se ha desarrollado en su mayoría de manera independiente, trabajando como freelance y llevando adelante diversos proyectos personales. Algunos de estos proyectos están disponibles públicamente en mi <a href="https://github.com/LSCAR23" target="_blank">GitHub</a>, donde comparto mi progreso y las habilidades que he adquirido a lo largo del tiempo. En 2024, me gradué en Ingeniería en Software de la Universidad Técnica Nacional en Costa Rica, y actualmente continúo mis estudios para alcanzar el nivel de Bachillerato en esta misma carrera.
-</p>
+### My expertise includes:
+- Full-Stack Web Development with **React, Next.js, and Node.js**.  
+- Backend development using **Python and FastAPI**.  
+- Database management with **PostgreSQL, Firebase, and MongoDB**.  
+- Containerization and DevOps with **Docker**.  
+- Cross-platform mobile development with **Flutter**.  
 
-<p style="font-size: 16px; line-height: 1.6;">
-    Más allá de mi formación académica, me esfuerzo diariamente por explorar nuevas tecnologías y tendencias en desarrollo de software. Dedico tiempo a aprender lenguajes de programación modernos, frameworks, y prácticas avanzadas que optimizan la eficiencia y la calidad de los proyectos en los que trabajo. Esto me permite mejorar continuamente mis habilidades como desarrollador, mantenerme actualizado con las demandas del sector tecnológico, y ofrecer soluciones innovadoras y efectivas en cada proyecto.
-</p>
+---
 
-<h2>Encuéntrame en:</h2>
+## 🛠️ Technologies I Work With:
 
-<div style="display: flex; flex-wrap: wrap; gap: 10px; margin-top: 10px;">
-    <a href="https://instagram.com/10scar23" target="_blank"><img src="https://img.shields.io/badge/Instagram-@10scar23-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010" alt="Instagram"></a>
-    <a href="https://www.facebook.com/oscar.lara.33865854/?locale=es_LA" target="_blank"><img src="https://img.shields.io/badge/Facebook-@Oscar_Lara-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=101010" alt="Facebook"></a>
-    <a href="https://www.linkedin.com/in/oscar-enríquez-lara-69706426a/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Oscar_Lara-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010" alt="LinkedIn"></a>
-    <a href="https://porfolio10scar23.netlify.app" target="_blank"><img src="https://img.shields.io/badge/10scar.com-14a1f0?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=101010" alt="Web"></a>
-    <a href="mailto:laraoscar2310@gmail.com" target="_blank"><img src="https://img.shields.io/badge/laraoscar2310@gmail.com-email_personal_(respuesta_lenta)-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010" alt="Email"></a>
-</div>
+### Frontend:
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+
+### Backend:
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+### Databases:
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white)
+
+### DevOps & Tools:
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+## 📫 How to reach me:
+
+📧 Email: laraoscar2310@gmail.com  
+📱 WhatsApp: [+506 83105790](https://wa.me/50683105790)  
+💼 LinkedIn: [Oscar Enríquez Lara](https://www.linkedin.com/in/oscar-enríquez-lara-69706426a/)  
+
+---
+
+
+🚀 Let's build something amazing together!
