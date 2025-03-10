@@ -44,5 +44,12 @@
 
 ---
 
+### 📊 GitHub Stats:
+
+![Oscar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=LSCAR23&show_icons=true&theme=tokyonight)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LSCAR23&layout=compact&theme=tokyonight)
+
+---
+
 
 🚀 Let's build something amazing together!
